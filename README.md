@@ -54,8 +54,3 @@ One-click preset styles for quick editing:
 - **Vanilla JavaScript** – Image processing & interactivity
 
 > No frameworks, no libraries — pure JavaScript.
-
----
-
-## 📂 Project Structure
-
